@@ -2,7 +2,7 @@
 
 Онлайн-редактор **HTML · CSS · JavaScript** с живым предпросмотром. Неоновый интерфейс, адаптивная вёрстка, автосохранение в браузере — готов к развёртыванию на GitHub Pages без сборки.
 
-**Live demo:** [spirzen.github.io/WebEditor](https://spirzen.github.io/WebEditor/)
+**Live:** [html.spirzen.ru](https://html.spirzen.ru/)
 
 ![Online Web Editor](https://img.shields.io/badge/Online-Web%20Editor-00f5ff?style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-ff2d95?style=for-the-badge)
@@ -60,10 +60,10 @@ git commit -m "feat: add Online Web Editor"
 git push origin main
 ```
 
-Сайт будет доступен по адресу:
+Сайт доступен по адресу:
 
 ```
-https://spirzen.github.io/WebEditor/
+https://html.spirzen.ru/
 ```
 
 ## Структура проекта
@@ -90,7 +90,7 @@ WebEditor/
 |-----------|-----------|
 | Редактор кода | [Ace Editor](https://ace.c9.io/) |
 | Стили UI | Vanilla CSS (custom properties, neon theme) |
-| Логика | Vanilla JavaScript (ES modules) |
+| Логика | Vanilla JavaScript |
 | Деплой | GitHub Actions + GitHub Pages |
 | Шрифты | [Outfit](https://fonts.google.com/specimen/Outfit), [JetBrains Mono](https://www.jetbrains.com/lp/mono/) |
 
