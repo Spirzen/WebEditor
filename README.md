@@ -1,6 +1,6 @@
 # Online Web Editor
 
-Онлайн-редактор **HTML · CSS · JavaScript** с живым предпросмотром. Неоновый интерфейс, адаптивная вёрстка, автосохранение в браузере — готов к развёртыванию на GitHub Pages без сборки.
+Онлайн-редактор **HTML · CSS · JavaScript** с живым предпросмотром.
 
 **Live:** [html.spirzen.ru](https://html.spirzen.ru/)
 
