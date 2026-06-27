@@ -49,6 +49,8 @@ html, body {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
   font-family: var(--font-ui);
   background: var(--bg-deep);
   color: var(--text);
@@ -72,9 +74,9 @@ body::before {
   position: relative;
   z-index: 1;
   display: flex;
+  flex: 1;
   flex-direction: column;
-  height: 100vh;
-  height: 100dvh;
+  min-height: 0;
 }
 
 /* ── Header ── */
