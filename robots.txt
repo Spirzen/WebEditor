@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://html.spirzen.ru/sitemap.xml
